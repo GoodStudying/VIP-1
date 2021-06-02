@@ -1,0 +1,145 @@
+{
+    "name":"JDCNtemporary",
+    "author":"Leon",
+    "desc":"适用于国内的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。相关说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
+    "date":"2021-05-26 18:40:00",
+    "list":[
+        {
+            "name":"5.31京东海尔欢乐大逃亡",
+            "type":"cron",
+            "time":"8 8,20 7-31 5 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/car/adolf_haier.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5月-每日抽奖",
+            "type":"cron",
+            "time":"19 1,12,22 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/chinnkarahoi/jd_scripts/master/jd_daily_lottery.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.31京享值PK",
+            "type":"cron",
+            "time":"10 8,13,18 17-31 5 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_pk.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.31Joy总动员",
+            "type":"schedule",
+            "time":"0",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/fangpidedongsun/jd_scripts2/master/jd_friend.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.25京东母婴-跳一跳",
+            "type":"cron",
+            "time":"5 8,14,20 19-25 5 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js"
+            },
+            "running":true
+        },
+        {
+            "name":"6.20赢一加新品手机",
+            "type":"cron",
+            "time":"37 8 * 5,6 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js"
+            },
+            "running":true
+        },
+        {
+            "name":"6.18飞利浦电视成长记",
+            "type":"cron",
+            "time":"27 8 * 5,6 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.31人头马x博朗",
+            "type":"cron",
+            "time":"47 8 20-31 5 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.27Redmi合成小金刚",
+            "type":"cron",
+            "time":"17 9 21-27 5 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.24跳跳乐瓜分京豆",
+            "type":"cron",
+            "time":"1 0,9,18 * * *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/chinnkarahoi/jd_scripts/master/jd_jump.js"
+            },
+            "running":true
+        },
+        {
+            "name":"5.26adolf_urge",
+            "type":"cron",
+            "time":"18 9 18-26 5 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_urge.js"
+            },
+            "running":true
+        },
+        {
+            "name":"12.31京东金榜创造营",
+            "type":"cron",
+            "time":"0 8 21-31 5-12 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_jbczy.js"
+            }
+        },
+        {
+            "name":"618京东超级盒子",
+            "type":"cron",
+            "time":"15 8,19 * 5,6 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js"
+            }
+        },
+        {
+            "name":"618大势新品赏",
+            "type":"cron",
+            "time":"5 9,15 * 5,6 *",
+            "job":{
+                "type":"runjs",
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js"
+            }
+        }
+    ]
+}
