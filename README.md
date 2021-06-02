@@ -27,22 +27,22 @@
   
 - **JD**
   ```
-  https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JD.json
+  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JD.json
   ```
   
 - **JDoth**
   ``` 
-  https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDoth.json
+  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDoth.json
   ```
   
 - **JDtmp**
   ```
-  https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDtmp.json
+  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDtmp.json
   ```
    
 - **JDhelp**
   ```
-  https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDhelp.json
+  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDhelp.json
   ```
   
 - **V2pTaskSub** *By sngxpro*
