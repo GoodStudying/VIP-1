@@ -6,22 +6,22 @@
   
 - **JD**
   ```
-  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDCN.json
+  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDCN.json
   ```
   
 - **JDoth**
   ``` 
-  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDCNoth.json
+  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDCNoth.json
   ```
   
 - **JDtmp**
   ```
-  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDCNtmp.json
+  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDCNtmp.json
   ```
    
 - **JDhelp**
   ```
-  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIPTasks/main/Tasks/JDCNhelp.json
+  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDCNhelp.json
   ```
   
 - **V2pTaskSub** *By sngxpro*
