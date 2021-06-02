@@ -1,6 +1,6 @@
-## Version: v2.0.0
-## Date: 2021-05-16
-## Update Content: 添加并发执行任务数 MaxConcurrentNum
+## Version: v2.0.0-05302045
+## Date: 2021-05-30
+## Update Content: 增加ql bot命令所需文件提示
 
 ## 上面版本号中，如果第2位数字有变化，那么代表增加了新的参数，如果只有第3位数字有变化，仅代表更新了注释，没有增加新的参数，可更新可不更新
 
@@ -33,9 +33,11 @@ AutoHelpOther="true"
 ## 填 2 使用“随机顺序助力模板”，本套脚本内账号间随机顺序助力，每次生成的顺序都不一致。
 HelpType="0"
 
-## 是否自动启动bot，默认不启动，设置为true时自动启动
+## 是否自动启动bot，默认不启动，设置为true时自动启动，目前需要自行克隆bot仓库所需代码，存到ql/repo目录下，文件夹命名为dockerbot
 AutoStartBot=""
 
+## 安装bot依赖时指定pip源，默认使用清华源，如不需要源，设置此参数为空
+PipMirror="https://pypi.tuna.tsinghua.edu.cn/simple"
 ## 需组合的环境变量列表，env_name需要和var_name一一对应，如何有新活动按照格式添加(不懂勿动)
 env_name=(
   JD_COOKIE
