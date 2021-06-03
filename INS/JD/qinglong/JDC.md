@@ -135,8 +135,8 @@ nohup ./JDC &
 ![cookie-get][cookie-get]  
 ![2][2]
 
-> 本文作者： HuaYu @一花一世界
-> 本文链接： https://ihuayu8.cn/ql-get-cookie.html
+> 本文作者： HuaYu @一花一世界  
+> 本文链接： https://ihuayu8.cn/ql-get-cookie.html  
 > 版权声明： 本站所有文章除特别声明外，均采用 (CC)BY-NC-SA 许可协议。转载请注明出处！
 
 --------------------
