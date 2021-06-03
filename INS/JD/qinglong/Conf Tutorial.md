@@ -2,7 +2,7 @@
 
 
 ## 简介
-- 青龙Bot交互使用 **SuMaiKaDe** 大佬的开源项目 👉 [jddockerbot](https://github.com/SuMaiKaDe/jddockerbot/tree/master),感谢大佬的优质代码
+- 青龙Bot交互使用 **SuMaiKaDe** 大佬的开源项目 👉 [jddockerbot](https://github.com/Orangemuse/jddockerbot/tree/master),感谢大佬的优质代码
 
 
 
