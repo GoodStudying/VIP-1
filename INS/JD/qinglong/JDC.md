@@ -119,7 +119,7 @@ nohup ./JDC &
 ```
 
 ## 界面展示
-![cookie-get][cookie-get]
+![cookie-get][cookie-get]  
 ![2][2]
 
 --------------------
