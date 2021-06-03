@@ -19,7 +19,7 @@
 
 ## [★](./Tasks) Tasks
 ```
-ql repo https://ghproxy.com/https://github.com/chinnkarahoi/jd_scripts.git "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER"
+ql repo https://github.com/chinnkarahoi/jd_scripts.git "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER"
 ```
 ```
 ql repo https://github.com/Orangemuse/dust.git "i-chenzhe|normal|member|car" "backup"
