@@ -91,6 +91,9 @@ docker exec -it qinglong cat /ql/config/auth.json
 ql repo https://ghproxy.com/https://github.com/zooPanda/zoo.git "zoo"
 ```
 
+<details>
+  <summary>曾经的库拉取代码</summary>
+
 在青龙主页添加4个定时任务，定时随便自己喜欢设置，任务代码如下：
 
 ```
@@ -110,7 +113,7 @@ ql repo https://ghproxy.com/https://github.com/whyour/hundun.git "quanx" "tokens
 ```
 
 上面4个分别是lxk0301的、藏经阁的、龙猪猪的京豆雨、混沌的京东京喜系列
-
+</details>
 
 ## 五、Cookie管理
 
