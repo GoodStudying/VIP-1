@@ -23,7 +23,8 @@
 ## 说明
 本程序已开源，不存在后门等恶意代码。
 
-~~https://github.com/huayu8/JDC~~ https://github.com/Orangemuse/JDC
+~~`https://github.com/huayu8/JDC`~~  
+https://github.com/Orangemuse/JDC
 
 请勿将本程序使用于商业化行为中，否则一切后果自行承担。  
 由于本人技术有限，不保证程序的可用性以及安全性，由使用本程序造成的一切损失请自行承担。
