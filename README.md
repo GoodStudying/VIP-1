@@ -1,4 +1,4 @@
-# 📌 618 is Over. There are no plans to replace the monk's lapsed link with a valid one at this time.
+# 📌 Invalid links have been replaced. All remaining 618-tasks use QL. So no more V2p-updates for a while.
 
 # Statement
   
@@ -18,32 +18,24 @@
 
 
 ## [★](./Tasks) Tasks
-### [<img src="/Icons/China.png" title="CN-links" width="28" height="28" />](./Tasks/CN.md#cn) Click here for CN-links (Lazy to update)
-
-- **elecV2P**
-  ```
-  https://raw.githubusercontent.com/elecV2/elecV2P/master/efss/tasksub.json
-  ```
-  
-- **JD**
-  ```
-  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JD.json
-  ```
-  
-- **JDoth**
-  ``` 
-  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDoth.json
-  ```
-   
-- **JDhelp**
-  ```
-  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDhelp.json
-  ```
-  
-- **V2pTaskSub** *By sngxpro*
-  ```
-  https://raw.githubusercontent.com/sngxpro/QuanX/master/V2pTaskSub/sngxprov2p.json
-  ```
+```
+ql repo https://ghproxy.com/https://github.com/chinnkarahoi/jd_scripts.git "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER"
+```
+```
+ql repo https://github.com/Orangemuse/dust.git "i-chenzhe|normal|member|car" "backup"
+```
+```
+ql repo https://github.com/Orangemuse/longzhuzhu.git "qx"
+```
+```
+ql repo https://github.com/Wenmoux/scripts.git "jd"
+```
+```
+ql repo https://github.com/panghu999/panghu.git "jd_"
+```
+```
+ql repo https://github.com/zooPanda/zoo.git "zoo"
+```
 
 
 ## [★](./INS) Instructions
