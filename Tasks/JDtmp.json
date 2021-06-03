@@ -1,8 +1,8 @@
 {
-    "name":"JDtemporary",
+    "name":"618",
     "author":"Leon",
     "desc":"旺仔 制作Json模板2.0.xlsx文件，Leon 修订并拆分转换成.json的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。相关说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
-    "date":"2021-06-02 18:10:00",
+    "date":"2021-06-03 17:30:00",
     "list":[
         {
             "name":"6.20赢一加新品手机",
@@ -10,7 +10,7 @@
             "time":"37 8 * 5,6 *",
             "job":{
                 "type":"runjs",
-                "target":"https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js"
+                "target":"https://raw.githubusercontent.com/Orangemuse/dust/dust/member/adolf_oneplus.js"
             },
             "running":true
         },
@@ -20,7 +20,7 @@
             "time":"27 8 * 5,6 *",
             "job":{
                 "type":"runjs",
-                "target":"https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js"
+                "target":"https://raw.githubusercontent.com/Orangemuse/dust/dust/member/adolf_flp.js"
             },
             "running":true
         },
@@ -31,7 +31,8 @@
             "job":{
                 "type":"runjs",
                 "target":"https://raw.githubusercontent.com/qqsdff/script/main/jd/jd_jbczy.js"
-            }
+            },
+            "running":true
         },
         {
             "name":"618京东超级盒子",
@@ -39,8 +40,9 @@
             "time":"15 8,19 * 5,6 *",
             "job":{
                 "type":"runjs",
-                "target":"https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js"
-            }
+                "target":"https://raw.githubusercontent.com/Orangemuse/dust/dust/normal/adolf_superbox.js"
+            },
+            "running":true
         },
         {
             "name":"618大势新品赏",
@@ -48,26 +50,7 @@
             "time":"5 9,15 * 5,6 *",
             "job":{
                 "type":"runjs",
-                "target":"https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js"
-            }
-        },
-        {
-            "name":"618家电星推官",
-            "type":"cron",
-            "time":"34 9-18/3 * 5,6 *",
-            "job":{
-                "type":"runjs",
-                "target":"https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_star.js"
-            },
-            "running":true
-        },
-        {
-            "name":"618金榜创造营",
-            "type":"cron",
-            "time":"13 1,22 * * *",
-            "job":{
-                "type":"runjs",
-                "target":"https://jdsharedresourcescdn.azureedge.net/jdresource/jd_gold_creator.js"
+                "target":"https://raw.githubusercontent.com/Orangemuse/dust/dust/normal/adolf_newInteraction.js"
             },
             "running":true
         }
