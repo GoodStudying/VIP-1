@@ -18,11 +18,6 @@
   ```
   https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDCNtmp.json
   ```
-   
-- **JDhelp**
-  ```
-  https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDCNhelp.json
-  ```
   
 - **V2pTaskSub** *By sngxpro*
   ```
