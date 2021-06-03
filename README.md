@@ -1,4 +1,4 @@
-# 📌 618 is Over. There are no plans to replace the monk's lapsed link with a valid one at this time.
+# 📌 Invalid links have been replaced. All remaining 618-tasks use QL. So no more V2p-updates for a while.
 
 # Statement
   
