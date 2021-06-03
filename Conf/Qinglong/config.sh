@@ -135,6 +135,6 @@ name_chinese=(
 )
 
 ## 其他需要的变量，脚本中需要的变量使用 export 变量名= 声明即可
-export TG_BOT_TOKEN=""
-export TG_USER_ID=""
-export JOY_RUN_HELP_MYSELF="true"
+export TG_BOT_TOKEN= ""
+export TG_USER_ID= ""
+export JOY_RUN_HELP_MYSELF= "true"
