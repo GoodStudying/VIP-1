@@ -1,5 +1,18 @@
 # 青龙面板扫码获取 Cookie
 
+> ⛔是时候说再见了！有缘江湖再见！
+
+> 2021.05.30 程序不再提供下载与安装服务！
+
+> 2021.05.26 已更新并修复了一些小 BUG
+
+- 修复了 cookie 删除失败的 bug
+- 增加是否允许新增账号的设置项
+- 修复日志失效的 BUG
+- 现在可以在 config.toml 中设置日志的文件名称了，更多配置项请自行查看
+
+更新教程请看下方。
+
 ## 简介
 本程序仅限青龙面板 2.0 对接使用，添加自助扫码功能。  
 更多功能如下：
@@ -10,7 +23,7 @@
 ## 说明
 本程序已开源，不存在后门等恶意代码。
 
-https://github.com/huayu8/JDC
+~~https://github.com/huayu8/JDC~~ https://github.com/Orangemuse/JDC
 
 请勿将本程序使用于商业化行为中，否则一切后果自行承担。  
 由于本人技术有限，不保证程序的可用性以及安全性，由使用本程序造成的一切损失请自行承担。
@@ -121,6 +134,10 @@ nohup ./JDC &
 ## 界面展示
 ![cookie-get][cookie-get]  
 ![2][2]
+
+> 本文作者： HuaYu @一花一世界
+> 本文链接： https://ihuayu8.cn/ql-get-cookie.html
+> 版权声明： 本站所有文章除特别声明外，均采用 (CC)BY-NC-SA 许可协议。转载请注明出处！
 
 --------------------
 [cookie-get]:https://github.com/Orangemuse/VIP/blob/main/Icons/qinglong/JDC/cookie-get.png
