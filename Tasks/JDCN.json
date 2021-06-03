@@ -2,7 +2,7 @@
     "name":"JDCN",
     "author":"Leon",
     "desc":"适用于国内的任务订阅。该订阅适用于 elecV2P，与其他软件并不兼容。相关说明参考：https://github.com/elecV2/elecV2P-dei/tree/master/docs/06-task.md",
-    "date":"2021-05-28  19:20:00",
+    "date":"2021-06-03  17:15:00",
     "list":[
         {
             "name":"interCenter渠道店铺签到",
@@ -110,7 +110,7 @@
             "time":"20 30 * * * *",
             "job":{
                 "type":"runjs",
-                "target":"https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js"
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/longzhuzhu/main/qx/jd_half_redrain.js"
             },
             "running":true
         },
@@ -400,7 +400,7 @@
             "time":"3 20 * * *",
             "job":{
                 "type":"runjs",
-                "target":"https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shake.js"
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/dust/dust/i-chenzhe/z_shake.js"
             },
             "running":true
         },
@@ -410,7 +410,7 @@
             "time":"20 0 * * * *",
             "job":{
                 "type":"runjs",
-                "target":"https://ghproxy.com/https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js"
+                "target":"https://ghproxy.com/https://raw.githubusercontent.com/Orangemuse/longzhuzhu/main/qx/jd_super_redrain.js"
             },
             "running":true
         },
