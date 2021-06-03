@@ -34,11 +34,6 @@
   ``` 
   https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDoth.json
   ```
-  
-- **JDtmp**
-  ```
-  https://raw.githubusercontent.com/Orangemuse/VIP/main/Tasks/JDtmp.json
-  ```
    
 - **JDhelp**
   ```
