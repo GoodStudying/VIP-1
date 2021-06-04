@@ -136,6 +136,8 @@ name_chinese=(
 )
 
 ## 其他需要的变量，脚本中需要的变量使用 export 变量名= 声明即可
-export TG_BOT_TOKEN=""
-export TG_USER_ID=""
+export TG_BOT_TOKEN="1897660972:AAHQBmN8K_Zqt7x4ItLm613kyCK-HkdLqBQ"
+export TG_USER_ID="-1001390164435"
 export JOY_RUN_HELP_MYSELF="true"
+export FRUIT_NOTIFY_CONTROL="false"
+export JXNC_NOTIFY_LEVEL="0"
