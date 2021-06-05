@@ -7,7 +7,7 @@
 > [nevinee](./JD/nevinee#readme) 
 > [qinglong](./JD/qinglong#readme)  
 > [lan-tianxiang](./JD/lan-tianxiang#readme)  
-> [JDMemberCloseAccount](./JD/Others/JDMemberCloseAccount.md#%E5%88%A9%E7%94%A8jdmembercloseaccount%E6%B3%A8%E9%94%80%E4%BA%AC%E4%B8%9C%E4%BC%9A%E5%91%98)
+> [JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount#jdmembercloseaccount)
 
 ## VPS
 > [Foreign Hosting Reviews](https://www.zhujiceping.com/)  
