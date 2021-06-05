@@ -4,7 +4,10 @@
 ## JD
 > [General](https://www.kdocs.cn/l/cvv59F3SXS4B)  
 > [lxk0301](./JD/lxk0301#readme)  
-> [nevinee](./JD/nevinee#readme)  
+> [nevinee](./JD/nevinee#readme) 
+> [qinglong](./JD/qinglong#readme)  
+> [lan-tianxiang](./JD/lan-tianxiang#readme)  
+> [JDMemberCloseAccount](.JD/Others/JDMemberCloseAccount.md#%E5%88%A9%E7%94%A8jdmembercloseaccount%E6%B3%A8%E9%94%80%E4%BA%AC%E4%B8%9C%E4%BC%9A%E5%91%98)
 
 ## VPS
 > [Foreign Hosting Reviews](https://www.zhujiceping.com/)  
